@@ -1,4 +1,4 @@
-# Workshop on Quantum Software <br/> <p style="font-size: 21px;"> CERN Geneva, 25 November 2023 </p>
+# Workshop on Quantum Software <br/> <small> CERN Geneva, 25 November 2023 </small>
 
 * [Overview](#overview)
 * [Call for paper](#call-for-papers)
