@@ -42,13 +42,9 @@ https://easychair.org/conferences/?conf=qsw2023
 
 ### Publication
 
-All accepted papers in categories A-C will appear in the proceedings of the conference that will be published as a volume in Springer’s Lecture Notes in Computer Science (LNCS) series.
-
-All accepted papers must be presented at the conference. Their authors must be prepared to sign a copyright transfer statement. At least one author of each accepted paper must register for the conference by the early registration date, and present the paper.
-
 After the workshop we will invite authors of selected accepted abstracts to submit an extended versions of their contribution to a special issue of the Springer journal of Quantum Machine Intelligence: https://www.springer.com/journal/42484.
 
-## Program Committee
+## Programme Committee
 
 ### Organising Committee
 
@@ -56,4 +52,4 @@ After the workshop we will invite authors of selected accepted abstracts to subm
 * Carsten Blank (Data Cybernetics)
 * Nicola Assolini (Università di Verona)
 
-## Final Program
+## Final Programme
