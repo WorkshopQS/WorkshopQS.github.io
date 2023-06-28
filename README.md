@@ -17,14 +17,14 @@ Learning how to program quantum computers is the next critical skill for develop
 
 Looking at a quantum computing system as a stack of several layers from the creation of quantum algorithms to the development of hardware devices, the term `quantum software' is used in the name of this workshop as an umbrella for all the intermediate levels of such a stack that allows quantum algorithms to be implemented and executed on quantum hardware. This workshop aims to gather new ideas as well as established results in quantum software and discuss the most significant directions of research in
 
-- Quantum Computer Languages and Compilers
-  - quantum languages design and implementation
-  - quantum program analysis and verification
-  - quantum software engineering
-- Quantum computer architecture
-  - quantum hardware-software interface
-  - quantum assembler
-  - quantum circuit optimisation
+* Quantum Computer Languages and Compilers
+  * quantum languages design and implementation
+  * quantum program analysis and verification
+  * quantum software engineering
+* Quantum computer architecture
+  * quantum hardware-software interface
+  * quantum assembler
+  * quantum circuit optimisation
 
 ## Call for Papers
 
