@@ -8,10 +8,14 @@
 
 ## Overview
 
-Learning how to program quantum computers is the next critical skill for developers. Despite this, current quantum programming tools are still at an early stage of the development process, which limits the possibility of creating real complex quantum software systems. This situation is reminiscent of the Software Crisis experienced by classical computing in the 60's. One consequence of that crisis was the GNU Project set out to develop a complete free Unix-like system: GNU. Thanks to that initiative, free software is nowadays a well estabilshed philosophy among software developers. The most urgent need for quantum software today is a similar systematic and unifying approach to quantum programming, whith the following main objectives:
+Learning how to program quantum computers is the next critical skill for developers. 
+Despite this, current quantum programming tools are still at an early stage of the 
+development process, which limits the possibility of creating real complex quantum 
+software systems. 
+The most urgent need for quantum software today is a systematic and unifying 
+approach to quantum programming, whith the following main objectives:
 
-* the high-level definition of programming languages via a machine;
-* independent specification of their syntax and semantics;
+* the high-level definition of programming languages via a machine-independent specification of their syntax and semantics;
 * a structured methodology for translating high-level programs before running them on quantum computers;
 * the development of formal methods for the analysis of program properties and for compiler optimisation.
 
