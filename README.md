@@ -13,7 +13,7 @@ Despite this, current quantum programming tools are still at an early stage of t
 development process, which limits the possibility of creating real complex quantum 
 software systems. 
 The most urgent need for quantum software today is a systematic and unifying 
-approach to quantum programming, whith the following main objectives:
+approach to quantum programming, with the following main objectives:
 
 * the high-level definition of programming languages via a machine-independent specification of their syntax and semantics;
 * a structured methodology for translating high-level programs before running them on quantum computers;
